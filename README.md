@@ -5,8 +5,6 @@ Python support was just added for Power BI. Here's a *brief* tutorial / example.
 
 # Get Data Usage
 
-With Power Query [ready](https://www.excelcampus.com/install-power-query/) we begin by loading the college scorecard data dictionary.
-
 1. Paste the main.py code in the Python script textbox. 
 
    ![drop script here](img/dropin.png)

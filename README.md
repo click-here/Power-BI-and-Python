@@ -33,7 +33,7 @@ Note: Relative file references will not work as expected.
 
 What you actually need to paste into the 'Run Python script' box is shown below:
 
-```
+```python
 from fuzzywuzzy import process
 
 dirtydata_df = pandas.DataFrame(dataset)

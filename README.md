@@ -6,7 +6,9 @@ Here's two *brief* tutorials / examples.
 Examples intended for people familiar with Power BI and Python. New to Power BI and Python? Check out some of my other [tutorials](https://github.com/click-here/Pandas-vs-Power-Query)
 
 # Get Data Usage
+
 ##### Description: We can calculate the lexical-diversity of some of the texts provided with [nltk](https://www.nltk.org/).
+
 
 1. Paste the main.py code in the Python script textbox. 
 
@@ -18,6 +20,7 @@ Examples intended for people familiar with Power BI and Python. New to Power BI 
 
 	![stacked bar chart](img/lexical-diversity.png)
    
+
 # Process Existing Data
 ##### Description: Using the [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) module we can fix mispelled words given a known list.
 
@@ -49,3 +52,4 @@ dirtydata_df['Cleaned Companies'] = dirtydata_df['Security'].map(lambda a: get_c
 3. Viola! Your cleaned data!
 
 	![cleaned data](img/Finished.png)
+

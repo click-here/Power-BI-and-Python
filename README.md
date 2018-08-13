@@ -7,7 +7,7 @@ Examples intended for people familiar with Power BI and Python. New to Power BI 
 
 # Get Data
 
-##### Description: We can calculate the lexical-diversity of some of the texts provided with [nltk](https://www.nltk.org/).
+##### Description: Calculate the lexical-diversity of some of the texts provided with [nltk](https://www.nltk.org/).
 
 
 1. Paste the main.py code in the Python script textbox. 

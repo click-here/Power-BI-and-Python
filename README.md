@@ -5,7 +5,7 @@ Here's two *brief* tutorials / examples.
 
 Examples intended for people familiar with Power BI and Python. New to Power BI and Python? Check out some of my other [tutorials](https://github.com/click-here/Pandas-vs-Power-Query)
 
-# Get Data Usage
+# Get Data
 
 ##### Description: We can calculate the lexical-diversity of some of the texts provided with [nltk](https://www.nltk.org/).
 

@@ -1,7 +1,7 @@
 # Power-BI-and-Python
 Python support was just added for Power BI. [Source](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/#python)
 
-Here's two *brief* tutorials / examples. 
+Here are two *brief* tutorials / examples. 
 
 Examples intended for people familiar with Power BI and Python. New to Power BI and Python? Check out some of my other [tutorials](https://github.com/click-here/Pandas-vs-Power-Query)
 
